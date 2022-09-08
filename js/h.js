@@ -41,7 +41,7 @@ window.onload=function(){
         
       setTimeout(function(){
          loading.style.display="none";
-      },8000)
+      },2000)
 }
 window.onscroll=function(){
        if(window.scrollY >= con.offsetTop-250){
